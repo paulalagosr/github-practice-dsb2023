@@ -37,7 +37,7 @@
 |10|Ronapat Srisupavanich       | ronapats |<https://github.com/ronapats/my_website>   |<https://ronapat-portfolio.netlify.app/>        |2023-05-11 |
 |11|Chatiwat Phlaingam       | Chatiwat Phlaingam  |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |12|Nina Ferrer-Erikss       | nina-eriksson |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
-|13|Paula Lagos R       | paulalagosr |website   |netfly   |2021-05-11 |
+|13|Paula Lagos R       | paulalagosr |(https://paulalagos.netlify.app/)   |netfly   |2021-05-11 |
 |14|Eugene Nesterenko       | YevheniiN281 | https://github.com/YevheniiN281/my_website_collaboration   | https://eugene-nesterenko-lbs.netlify.app/       |2023-05-11 |
 |15|Shashvat Somany       | ssomany12 |https://github.com/ssomany12   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |16|Qi Ren       | 1817 |<https://github.com/kostis-christodoulou/my_gorgeous_website>  |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
